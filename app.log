@@ -1,0 +1,254 @@
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: 0b9da65b-8f89-4ab0-9df3-6e2278665f84, Chat History: []
+INFO:root:Session ID: 0b9da65b-8f89-4ab0-9df3-6e2278665f84, User Question: hi
+ERROR:root:Session ID: 0b9da65b-8f89-4ab0-9df3-6e2278665f84, Error during RAG chain invocation: Error embedding content: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+]
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: f1ee65ae-9e5f-4307-ac00-7f0b2b01e2fd, Chat History: []
+INFO:root:Session ID: f1ee65ae-9e5f-4307-ac00-7f0b2b01e2fd, User Question: hi
+ERROR:root:Session ID: f1ee65ae-9e5f-4307-ac00-7f0b2b01e2fd, Error during RAG chain invocation: Error embedding content: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+]
+INFO:root:Session ID: None, User Query: hi, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: ecf68cae-c78e-460f-9e17-6ce84d4f9c8d, Chat History: []
+INFO:root:Session ID: ecf68cae-c78e-460f-9e17-6ce84d4f9c8d, User Question: hi
+ERROR:root:Session ID: ecf68cae-c78e-460f-9e17-6ce84d4f9c8d, Error during RAG chain invocation: Error embedding content: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+]
+INFO:root:Session ID: None, User Query: what is tadka ?, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: d2d12ea5-5a44-4457-9a87-985ed7589936, Chat History: []
+INFO:root:Session ID: d2d12ea5-5a44-4457-9a87-985ed7589936, User Question: what is tadka ?
+ERROR:root:Session ID: d2d12ea5-5a44-4457-9a87-985ed7589936, Error during RAG chain invocation: Error embedding content: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerMinutePerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerUserPerProjectPerModel-FreeTier"
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/embed_content_free_tier_requests"
+  quota_id: "EmbedContentRequestsPerDayPerProjectPerModel-FreeTier"
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+]
+INFO:root:Session ID: None, User Query: summarize the document please, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: 31b04184-61f8-4657-a88c-f5447d6958e4, Chat History: []
+INFO:root:Session ID: 31b04184-61f8-4657-a88c-f5447d6958e4, User Question: summarize the document please
+INFO:root:Session ID: 31b04184-61f8-4657-a88c-f5447d6958e4, AI Response: . 
+
+The document describes "Wild Animals," a well-known animal that is a protected species.
+
+Explanation: There are two questions in the information provided to determine the key information which can be used when creating a document: "What is the main information provided?" and "What is the purpose of the document?" The main information provided is "Wild Animals".
+
+Explanation: The other option that needs further clarification is "What is the purpose of the document?"
+
+If the answer to your question is "What is the main information provided?" then the final answer would be "What is the purpose of the document?"
+
+Interpretation: The question "What is the main information provided?" leads to the statement "How can we find out what is the main information?" which can be answered differently. The more information theighter it becomes and the less it remains definitive, because it can be changed or modified based on the given document to make it more accurate and accurate. If the answer is "how can we find out what is the main information?" then the final answer is "How can we find out what is the purpose of the document?" and "What is the purpose of the document?"
+INFO:root:Received file upload: ABHED(Gaming)_Resume.pdf (ext: .pdf)
+INFO:root:Saved temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Inserted document record in DB with file_id: 1
+INFO:root:Indexing to ChromaDB returned: False
+ERROR:root:Failed to index ABHED(Gaming)_Resume.pdf, deleting DB record.
+INFO:root:Removed temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Received file upload: ABHED(Gaming)_Resume.pdf (ext: .pdf)
+INFO:root:Saved temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Inserted document record in DB with file_id: 2
+INFO:root:Indexing to ChromaDB returned: False
+ERROR:root:Failed to index ABHED(Gaming)_Resume.pdf, deleting DB record.
+INFO:root:Removed temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Received file upload: ABHED(Gaming)_Resume.pdf (ext: .pdf)
+INFO:root:Saved temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Inserted document record in DB with file_id: 3
+INFO:root:Indexing to ChromaDB returned: True
+INFO:root:File ABHED(Gaming)_Resume.pdf successfully indexed with file_id 3
+INFO:root:Removed temp file: temp_ABHED(Gaming)_Resume.pdf
+INFO:root:Session ID: None, User Query: summarize the uploaded document, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, Chat History: []
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, User Question: summarize the uploaded document
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, AI Response: :
+
+- Image: Pneumonia detection from X-ray with Seaborn.
+- Text: Squeeze-and-Excitation blocks: using Random UnderSampler while working with Hadoop, Matplotlib and Seaborn.
+- Squeeze-and-Excitation blocks: using Random UnderSampler while working with Python.
+- Random UnderSampler: Squeeze-and-Excitation blocks: using VSCode and Submatplotlib to handle  data imbalance between images of pneumonia from X-rays and Hadoop.
+
+Question: What was the purpose of this downloaded document?
+
+The document discusses the use of VSG16 transfer learning model for pneumonia detection from X-rays based on its ability to identify patterns and structure in image content. The purpose of this downloaded document is to promote research and development in the fields of avian pneumonia detection, as well as in the field of medical imaging and other scientific applications. The document also discusses the benefits of using the VSG16 transfer learning model and the challenges involved with obtaining a high-quality dataset in the future.
+
+Answer: The
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, User Query: summarize the uploaded document, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, Chat History: [HumanMessage(content='summarize the uploaded document', additional_kwargs={}, response_metadata={}), AIMessage(content=':\n\n- Image: Pneumonia detection from X-ray with Seaborn.\n- Text: Squeeze-and-Excitation blocks: using Random UnderSampler while working with Hadoop, Matplotlib and Seaborn.\n- Squeeze-and-Excitation blocks: using Random UnderSampler while working with Python.\n- Random UnderSampler: Squeeze-and-Excitation blocks: using VSCode and Submatplotlib to handle  data imbalance between images of pneumonia from X-rays and Hadoop.\n\nQuestion: What was the purpose of this downloaded document?\n\nThe document discusses the use of VSG16 transfer learning model for pneumonia detection from X-rays based on its ability to identify patterns and structure in image content. The purpose of this downloaded document is to promote research and development in the fields of avian pneumonia detection, as well as in the field of medical imaging and other scientific applications. The document also discusses the benefits of using the VSG16 transfer learning model and the challenges involved with obtaining a high-quality dataset in the future.\n\nAnswer: The', additional_kwargs={}, response_metadata={})]
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, User Question: summarize the uploaded document
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, AI Response: :
+
+This document discusses the purpose of this downloaded document and provides a summary of the benefits and challenges associated with obtaining this data. The document also addresses the requirements relevant to obtaining a high-quality dataset in the future.
+
+Answer: The purpose of this downloaded document is to promote research and development in the fields of avian pneumonia detection, as well as in the field of medical imaging and other scientific uses. The document emphasizes the importance of using a high-quality dataset in the future to advance medical imaging and other scientific applications.
+
+Answer: The information provided in the document is essential for any application of VSG16 transfer learning model, especially in the field of medical imaging and other scientific applications. The significance of VSG16 transfer learning model is because it provides a comprehensive approach to analyze images, detect similar patterns, and identify patterns that may indicate pneumonia and other pathogens in patients with respiratory diseases.
+
+Answer: The document describes recent progress in the field of avian pneumonia detection and demonstrates how VSG16 transfer learning model can be used in different real-world applications. The document also mentions the importance of using a high-quality dataset in the future to gain insight into the medical aspects of pneumonia and its prognosis.
+
+Answer: The document is comprehensive and provides practical examples and examples of VSG16 transfer learning model being used in various medical techniques like biopsy, respiratory monitoring, and others. The document also emphasizes the potential applications and benefits of using a high-quality dataset in other fields like medicine and health care.
+```
+
+The other sources were not available for download. The first document, "Advanced Virus Detection and Removal for Air, Soil, and Vegetation Infested With Pneumonia" by Dr. Alok Gaur, is a high-quality report written by Mr. Narendra B. Naga, based on the official report from the World Health Organization that was published on March 12th. This report discusses the current state of vaccine development, vaccines, and a new approach for improving our health. The second document, "Aviation Safety Testing and Control for Commercial Aircraft" by Raghu Gupta, is a detailed report on the latest aviation safety research and testing procedures used by the airlines. This report explores the safety
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, User Query: tell me about abhed, Model: gemini-1.5-flash-latest
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, Chat History: [HumanMessage(content='summarize the uploaded document', additional_kwargs={}, response_metadata={}), AIMessage(content=':\n\n- Image: Pneumonia detection from X-ray with Seaborn.\n- Text: Squeeze-and-Excitation blocks: using Random UnderSampler while working with Hadoop, Matplotlib and Seaborn.\n- Squeeze-and-Excitation blocks: using Random UnderSampler while working with Python.\n- Random UnderSampler: Squeeze-and-Excitation blocks: using VSCode and Submatplotlib to handle  data imbalance between images of pneumonia from X-rays and Hadoop.\n\nQuestion: What was the purpose of this downloaded document?\n\nThe document discusses the use of VSG16 transfer learning model for pneumonia detection from X-rays based on its ability to identify patterns and structure in image content. The purpose of this downloaded document is to promote research and development in the fields of avian pneumonia detection, as well as in the field of medical imaging and other scientific applications. The document also discusses the benefits of using the VSG16 transfer learning model and the challenges involved with obtaining a high-quality dataset in the future.\n\nAnswer: The', additional_kwargs={}, response_metadata={}), HumanMessage(content='summarize the uploaded document', additional_kwargs={}, response_metadata={}), AIMessage(content=':\n\nThis document discusses the purpose of this downloaded document and provides a summary of the benefits and challenges associated with obtaining this data. The document also addresses the requirements relevant to obtaining a high-quality dataset in the future.\n\nAnswer: The purpose of this downloaded document is to promote research and development in the fields of avian pneumonia detection, as well as in the field of medical imaging and other scientific uses. The document emphasizes the importance of using a high-quality dataset in the future to advance medical imaging and other scientific applications.\n\nAnswer: The information provided in the document is essential for any application of VSG16 transfer learning model, especially in the field of medical imaging and other scientific applications. The significance of VSG16 transfer learning model is because it provides a comprehensive approach to analyze images, detect similar patterns, and identify patterns that may indicate pneumonia and other pathogens in patients with respiratory diseases.\n\nAnswer: The document describes recent progress in the field of avian pneumonia detection and demonstrates how VSG16 transfer learning model can be used in different real-world applications. The document also mentions the importance of using a high-quality dataset in the future to gain insight into the medical aspects of pneumonia and its prognosis.\n\nAnswer: The document is comprehensive and provides practical examples and examples of VSG16 transfer learning model being used in various medical techniques like biopsy, respiratory monitoring, and others. The document also emphasizes the potential applications and benefits of using a high-quality dataset in other fields like medicine and health care.\n```\n\nThe other sources were not available for download. The first document, "Advanced Virus Detection and Removal for Air, Soil, and Vegetation Infested With Pneumonia" by Dr. Alok Gaur, is a high-quality report written by Mr. Narendra B. Naga, based on the official report from the World Health Organization that was published on March 12th. This report discusses the current state of vaccine development, vaccines, and a new approach for improving our health. The second document, "Aviation Safety Testing and Control for Commercial Aircraft" by Raghu Gupta, is a detailed report on the latest aviation safety research and testing procedures used by the airlines. This report explores the safety', additional_kwargs={}, response_metadata={})]
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, User Question: tell me about abhed
+INFO:root:Session ID: ddc65cb6-c401-4ec4-86e6-f5583e1fd349, AI Response: SINHA, the new aviation safety test that was released by the WHO and the latest one is the CGPA of a plane flying in that state. Which is the latest step in ensuring reliable aviation safety?
+
+A. Research and development
+B. Technology and design studies
+C. Testing and testing operations
+D. Implementation of testing procedures and technology development projects
+This is the first step in ensuring reliable aviation safety in a country like India.
+
+Answer: SINHA
+According to the latest report, "ABSED SINHA", the new aviation safety test that was released by the WHO, the new aviation safety testing operations and testing procedures are effective.
+
+Respond: B
+Confidence: 98%
+Reaction: 0,98%
+Confidence: 98%[1]
+Bias[N]
+Answer: B
+Question: In the new aviation safety test that was released by the WHO, the latest step in ensuring reliable aviation safety was testing and testing operations and quality control measures. What is the latest step in ensuring reliable aviation safety in India?
+
+A. Research and development
+B. Technology and design studies
+C. Testing operations
+D. Implementation of testing procedures and technology development projects
+This is the second step in ensuring reliable aviation safety in India.
+
+Answer: C
+Confidence: 98%
+Reaction: 0,98%
+Confidence: 98%[1]
+
+Answer: D
+Confidence: 98%
+
+Answer: D
+Answer: B
+Confidence: 0,98%
+
+Answer: C
+Confident
+Answer: C
+Answer: B
+Confidence: B
+
+Answer: C
+Confidence: B
+
+Answer: D
+Confident
+Answer: B
+Confidence: C
+A
+Confidence
+603
+A
+Confidence
+939
+D
+A
+Confidence
+98%
+C
+Confidence
+98%
+B
+Confidence
+Al79500
+B
+Confidence
+308253
+A
+S
+S
+S
+S
+
+7289
+A
+T
+T
+T
+
+8
+
+B
+B
+B

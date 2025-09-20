@@ -1,0 +1,41 @@
+import streamlit as st
+from api_utils import get_api_response
+
+def display_chat_interface():
+    # Add a welcome message if the chat is new
+    if not st.session_state.messages:
+        st.session_state.messages.append(
+            {"role": "assistant", "content": "Hello! How can I help you today? Upload documents and ask me anything about them."}
+        )
+
+    # Display existing chat messages
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+    # Handle new user input
+    if prompt := st.chat_input("Ask a question about your documents..."):
+        # Add user message to chat and display it
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        with st.spinner("Generating response..."):
+            response = get_api_response(prompt, st.session_state.session_id, st.session_state.model)
+            
+            if response:
+                st.session_state.session_id = response.get('session_id')
+                st.session_state.messages.append({"role": "assistant", "content": response['answer']})
+                
+                with st.chat_message("assistant"):
+                    st.markdown(response['answer'])
+                    
+                    with st.expander("Details"):
+                        st.subheader("Generated Answer")
+                        st.code(response['answer'])
+                        st.subheader("Model Used")
+                        st.code(response['model'])
+                        st.subheader("Session ID")
+                        st.code(response['session_id'])
+            else:
+                st.error("Failed to get a response from the API. Please try again.")
